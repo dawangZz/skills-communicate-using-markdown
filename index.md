@@ -4,4 +4,8 @@
 
 ## 234
 
+``` javascript
+var myVar = "Hello, world!";
+```
+
 ### 345
